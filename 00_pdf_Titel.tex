@@ -1,0 +1,43 @@
+%Dokumentklasse
+\documentclass[a4paper,11pt]{scrreprt}
+
+% ============= Packages =============
+\include{00_praeambel_physik_Labor}
+
+% ============= Dokumentbeginn =============
+\begin{document}
+%Seiten ohne Kopf- und Fußzeile sowie Seitenzahl
+
+\include{00a_Laborheft}
+
+\include{00b_titelblatt}
+ 
+\include{00c_Inhalt}
+
+% ab hier ist diese Konvention für die Fusszeile eingestellt
+\fancyfoot[L]{glaL3}
+\fancyfoot[C]{\thepage}
+\fancyfoot[R]{\today}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\include{01_Arbeitsgrundlagen}
+
+\include{02_Durchfuehrung}
+
+\include{03_Auswertung}
+
+\include{04_Fehlerrechnung}
+
+\include{05_Resultate_und_Diskussion}
+
+\include{06_Begriffsexplikation}
+
+\include{07_Plagiatserklaerung}
+
+\include{08_Anhang}
+
+%Literaturverzeichnis (noch die Richtige .bib Datei einfügen!)
+\addcontentsline{toc}{chapter}{Literaturverzeichnis}
+%\bibliography{Literaturverzeichnis/literatur_polarisation}
+
+\end{document}
