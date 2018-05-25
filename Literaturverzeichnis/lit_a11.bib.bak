@@ -9,4 +9,37 @@
   note         = {[Online Available: 23.05.2018]},
 }
 
+@Misc{Rudolph2017,
+  author       = {Dennies Rudolph},
+  title        = {Kreisbewegung und Zentripetalkraft (Physik)},
+  howpublished = {\url{https://www.frustfrei-lernen.de/mechanik/kreisbewegung-zentripetalkraft-physik-mechanik.html}},
+  month        = dec,
+  year         = {2017},
+  note         = {[Online Available: 25.05.2018]},
+}
+
+@Misc{stossionisation,
+  author       = {Chemie.de},
+  title        = {Stossionisation},
+  howpublished = {\url{http://www.chemie.de/lexikon/Sto%C3%9Fionisation.html}},
+  year         = {keine Angaben},
+  note         = {[Online Available: 25.05.2018]},
+}
+
+@Misc{ionisation,
+  author       = {Chemie.de},
+  title        = {Ionisation},
+  howpublished = {\url{http://www.chemie.de/lexikon/Ionisation.html}},
+  year         = {keine Angaben},
+  note         = {[Online Available: 25.05.2018]},
+}
+
+@Misc{photoionisation,
+  author       = {Academic},
+  title        = {Photoionisation},
+  howpublished = {\url{http://deacademic.com/dic.nsf/dewiki/1106069}},
+  year         = {keine Angaben},
+  note         = {[Online Available: 25.05.2018]},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
